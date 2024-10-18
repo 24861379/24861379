@@ -9,10 +9,10 @@
 <br>
 
 ## Habilidades
-<br>
+<br><br>
 
 <p>
- -Lenguajes:
+ - Lenguajes:
     
 ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=orange)  
 ![C#](https://img.shields.io/badge/C%20%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=purple)
