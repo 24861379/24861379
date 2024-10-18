@@ -12,7 +12,7 @@
 
 ## Habilidades
 <p>
-
+- Lenguajes:
     
 - Sistemas gestores de bases de datos:
     ![SQLServer](https://img.shields.io/badge/SQLServer%20-%2314354C.svg?style=for-the-badge&logo=SQLServer&logoColor=red)
