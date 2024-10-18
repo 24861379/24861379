@@ -11,8 +11,9 @@
 
 
 ## Habilidades
-<p>
+
 - Lenguajes:
+- j
     
 - Sistemas gestores de bases de datos:
     ![SQLServer](https://img.shields.io/badge/SQLServer%20-%2314354C.svg?style=for-the-badge&logo=SQLServer&logoColor=red)
@@ -22,6 +23,6 @@
     ![Git](https://img.shields.io/badge/Git%20-%2314354C.svg?style=for-the-badge&logo=Git&logoColor=orange)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-</p>
+
 
 
