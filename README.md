@@ -17,7 +17,7 @@
     ![CSS](https://img.shields.io/badge/CSS%20-%2314354C.svg?style=for-the-badge&logo=css3&logoColor=blue)<br>
     
 - Sistemas gestores de bases de datos:<br>
-    ![SQL Server](https://img.shields.io/badge/SQL-Server%20-%2314354C.svg?style=for-the-badge&logo=SQL-Server&logoColor=red)
+    ![SQLServer](https://img.shields.io/badge/SQL-Server%20-%2314354C.svg?style=for-the-badge&logo=SQL-Server&logoColor=red)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=for-the-badge&logo=MySQL&logoColor=blue)<br>
     
 - Control de versiones:<br>
